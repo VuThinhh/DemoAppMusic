@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<item
+    android:title="Trang chủ"
+    android:id="@+id/btnHomeMN"
+    android:icon="@drawable/home"/>
+    <item
+        android:title="Tìm kiếm"
+        android:id="@+id/btnFindMN"
+        android:icon="@drawable/find"/>
+    <item
+        android:title="Yêu thích"
+        android:id="@+id/btnHeartMN"
+        android:icon="@drawable/heart"/>
+
+</menu>

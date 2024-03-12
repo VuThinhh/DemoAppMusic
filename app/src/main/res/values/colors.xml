@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="tim">#704CD1</color>
+    <color name="xanh">#36DA11</color>
+    <color name="grey">#99FFFFFF</color>
+    <color name="nen">#FAEFDE</color>
+    <color name="nenn">#FFF8EE</color>
+    <color name="nen1">#F283A5</color>
+    <color name="nen2">#8D6C9F</color>
+    <color name="nendam">#C5AF8F</color>
+</resources>
